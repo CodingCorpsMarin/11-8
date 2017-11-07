@@ -1,0 +1,10 @@
+The next two days will be spent on creating a TodoList. After a blog, the most common way people learn new technologies/languages
+is to make a todo-list in that language. It incorporates CRUD, full-stack elements including a database, and form handling. 
+
+Requirements for this Todo List application:
+
+- On Rails
+- Styled
+- Login functionality
+- Able to create, view, update, and delete list items if need be
+
