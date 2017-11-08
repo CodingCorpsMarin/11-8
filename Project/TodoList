@@ -8,3 +8,4 @@ Requirements for this Todo List application:
 - Login functionality
 - Able to create, view, update, and delete tasks if need be
 
+Hint: tasks should have 1) name of task, 2) when it was put on the list, 3) when it was completed, etc
